@@ -20,4 +20,4 @@ jobs:
     steps:
     - name: Checking Echo!
       run: |
-        echo "Pull request is working"
+        echo "devops testing, it is new text from pull request"
